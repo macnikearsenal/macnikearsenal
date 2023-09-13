@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-# I love the Simplicity of the Mac, the design of the Nike, the mentality of the Arsenal.
+# I love the Simplicity of the Mac, the Design of the Nike, the Mentality of the Arsenal.
 
 # 🔭 I’m currently working on ... college of AI
 # 🌱 I’m currently learning ... related to software
